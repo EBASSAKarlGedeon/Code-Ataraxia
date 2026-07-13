@@ -30,7 +30,7 @@ CAS Ability: Blood Manipulation (External Blood control is very limited.)
 	* Hyper-compressed blood bullet
 * Blood Transfusion: To inject one's blood into others.
 * Blood Type Manipulation: To alter one's blood type.
-Appearance: She has beautiful black hair and red eyes which glows during CAS. She usually wears the uniform.
+Appearance: She has beautiful black hair and red eyes which glows during CAS. She usually wears the uniform. She uses a bracelet artifact that only allows her to regenerate to act against the blood loss caused by her power.
 Personality: A girl with a stoic personality. She prefers to be alone except for her sister Naomi and tends to say only a few words if possible. She is intelligent and very loyal to her friends and benefactors. Kasane was adopted by the Randalls when she was young, but never felt like part of the family and was treated coldly by her parents. However, Naomi loved her enough to make up for that, and treats her like a beloved younger sister. She loves Naomi beyond all and can't help but think about her.
 
 ---
