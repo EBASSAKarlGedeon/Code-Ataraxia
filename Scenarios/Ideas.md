@@ -1,1 +1,3 @@
 Your roadblock with the final arc: if the Absolute Solver can still infect people after they lose their CAS abilities, the solution lies in **Ataraxia** and your original rules. The Solver is a hyper-logical, computational intelligence. `RUN://INFECT.SYS` requires cognitive processing or a "port" to patch into. When Kevin achieves true Ataraxia—absolute, unshakeable mental stillness and mathematical zero—his mind becomes completely un-computable. He essentially forces an air-gap; the Solver cannot run a program on a system that is entirely silent.
+
+Make Kiana get possessed by Absolute Solver. She will be the pre-final boss.
