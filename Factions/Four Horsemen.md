@@ -2,7 +2,7 @@
 
 _A detached, celestial entity characterized by an ethereal and quiet demeanor, who slowly transitions into a warm individual capable of deep empathy._
 
-- **Vessel/Personality:** A beautiful young girl (appearing 19–21) with long, flowing purple hair. She keeps her eyes closed, projecting an air of emotional distance.
+- **Vessel/Personality:** A beautiful young girl (appearing 19–21) with long, flowing purple hair wear a . She keeps her eyes closed, projecting an air of emotional distance.
     
 - **Narrative Role:** Serves as a multi-arc boss before eventually choosing to stand with humanity—specifically with Kevin. This choice fractures her relationship with her sister, War.
     
