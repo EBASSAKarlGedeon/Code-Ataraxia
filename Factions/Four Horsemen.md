@@ -25,7 +25,7 @@ _Inspired by Tiamat (Fate/Grand Order). Driven by pure instinctive maternal love
     
 - **Creation Feats:** Flawlessly creates lifeforms. Her weakest monsters match Stage 3 Neurovores, and her elite creations match Stage 4. She is the literal mother of the Hollows **Kamish** and **Chaos**, alongside an unnamed future threat.
     
-- **Human Form (Larva / Alter Ego):** A petite, younger adolescent look (140cm–160cm) with light blue or dark hair and pink star-like eyes. Wears a simple outfit with long sleeves covering her hands. Features massive, heavy ram horns. As her power returns, she transitions into an elegant, unchained adult dress style with floating spiritual horns.
+- **Human Form:** A petite, younger adolescent look (140cm–160cm) with light blue or dark hair and pink star-like eyes. Wears a simple outfit with long sleeves covering her hands. Features massive, heavy ram horns. As her power returns, she transitions into an elegant, unchained adult dress style with floating spiritual horns.
     
 - **Hollow Form (Femme Fatale / Beast II):** A tall, mature woman with long, flowing dark/purple-tinged hair, glowing red eyes, and dark primordial skin markings. Framed by floating shackles, golden demonic wings, or rib-like structures. Can scale her size dynamically via Self-Modification to act as a colossal entity.
     
