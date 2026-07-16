@@ -1,13 +1,13 @@
 ## [APPEARANCE]
 
 ### APPEARANCE DETAILS
-- Full Name, Alias: Kevin Kavallier
-- Race: 
-- Sex/Gender: 
-- Height: 
-- Age: 
-- Hair: 
-- Eyes: 
+- Full Name, Alias: Kevin Kavallier, Snowy (affectionate nickname)
+- Race: Human (Actuant)
+- Sex/Gender: Male
+- Height: 175 cm
+- Age: 18
+- Hair: Short, snow-white
+- Eyes: Bright, clear blue
 - Body: 
 - Face: 
 - Features: 
