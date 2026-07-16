@@ -59,7 +59,8 @@ Possesses an dormant, unawakened temporal connection inherited from his mother's
 
 ### [CAS_DIAGNOSTIC]
 CAS Designation: K2–E3 / C3
-
+Cognitive Stability Rate (CSR): Stable
+Knowledge Base Integration (KBI): Multiple fields (Kinematics, Dynamics, Thermodynamics)
 ### ABILITIES
 - Ability: Hypervelocity (CAS Actuation)
   ↳ Details: Rapidly accelerates Kevin’s physical velocity, reflexes, and cognitive processing speed. By calculating kinetic variables, fluid resistance, and energy conversion, he can move at speeds that render him invisible to the naked human eye. Currently categorized under Kinematics and Dynamics.
