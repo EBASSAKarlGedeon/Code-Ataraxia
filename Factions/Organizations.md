@@ -55,3 +55,24 @@ A global regulatory agency overseeing the production, distribution, and restrict
 ### 9. Black Meridian
 
 An underground network dealing in illegal Artifacts, forbidden knowledge, and rogue Actuant services. Acts as the shadow counterpart to official institutions.
+
+### 10. Pharos Dynamics (The Medical & Pharmaceutical Monopoly)
+
+_The absolute rulers of human health, cognition, and neural longevity. They are the medical counterpart to AEA._
+
+- **The Vibe:** Pristine, clinical white-and-silver. Every facility smells of sterile ozone and mint. They project the image of humanity's gentle protectors, but behind closed doors, they are utterly cold and calculating.
+    
+- **Their Domain:** Pharos holds a global patent on all cognitive stabilizers, neural density enhancers, and memory-locking drugs. Actuants cannot push their **Execution Thresholds** safely without Pharos-brand neural dampeners. They also run the hospitals, the brain-mapping clinics, and perform the highly complex surgeries required to implant the **Brain Map Interface (BMI)**.
+    
+- **The Dark Side:** Because they control neural medicine, they have a massive black-market pipeline. They secretly harvest neural fluid from Stage 2 and 3 Neurovores to create "Synaptic Steroids." If an Actuant dies in their hospitals, their brain is quietly "donated" to research, harvesting their stable cognitive patterns to manufacture high-grade Artifacts.
+    
+---
+### 11. Elysian Aegis (Defense & Heavy Manufacturing)
+
+_The industrial shield of humanity. They are the ones who build the walls and hold the line._
+
+- **The Vibe:** Industrial, pragmatic, dark charcoal-and-crimson. They don't care about sleek aesthetics or corporate branding; they build things to survive an apocalypse.
+    
+- **Their Domain:** They specialize in heavy manufacturing and physical defense. They build the literal, physical walls of the fortified cities and the massive cognitive energy barrier generators that keep the **Dark Wall** at bay. Their Actuants are trained in structural, kinetic, and gravitational CAS—focusing on raw, undeniable physical output.
+    
+- **Their Philosophy:** Unlike Pharos and AEA, who are deeply integrated into the Inter-Noetic Network (INN), Elysian Aegis is highly suspicious of total network dependence. They train their elite soldiers to fight _offline_, utilizing heavy armored exosuits and manual weaponry that cannot be hacked or glitched if the INN goes down. This makes them the ultimate physical vanguard.
