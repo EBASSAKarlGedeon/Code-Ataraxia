@@ -18,17 +18,17 @@
   ↳ Effect: Frequently causes enemies and peers to underestimate his physical threat level. His little sister, Kiana, and others openly describe him as "adorable."
   
 - Appearance Trait: Kinetic Afterglow
-  ↳ Details: 
-  ↳ Effect: 
+  ↳ Details: When utilizing high-output CAS or hypervelocity, faint blue static and heat distortion trail slightly behind his eyes and limbs.
+  ↳ Effect: Visually signals intense neural synchronization and local friction.
 
 ### STARTING OUTFIT
-- Head: 
-- Accessories: 
-- Makeup: 
-- Neck: 
-- Top: 
-- Bottom: 
-- Legs: 
+- Head: None (or pulled-up hood from his jacket).
+- Accessories: None.
+- Makeup: None.
+- Neck: High-collar inner lining.
+- Top: Black tactical hooded jacket, lightweight and form-fitting to reduce wind resistance.
+- Bottom: Long, reinforced tactical black pants with high mobility stitching.
+- Legs: Integrated kinetic knee-braces (discreet).
 - Shoes: 
 - Underwear: 
 
