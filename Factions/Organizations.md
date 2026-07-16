@@ -40,12 +40,22 @@ A global regulatory agency overseeing the production, distribution, and restrict
 
 ---
 
-### 9. Black Meridian
 
-An underground network dealing in illegal Artifacts, forbidden knowledge, and rogue Actuant services. Acts as the shadow counterpart to official institutions.
 
-### 4. World Serpent
+
+
+
+
+
+
+
+
+## Outlaw & Shadow Factions
+### 1. World Serpent
 
 A secretive organization seeking to eradicate Neurovores and the Dark Wall through radical means. Known for experimenting on Actuants and creating human–Neurovore hybrids, it operates outside all legal frameworks.
 
 ---
+### 2. Black Meridian
+
+An underground network dealing in illegal Artifacts, forbidden knowledge, and rogue Actuant services. Acts as the shadow counterpart to official institutions.
