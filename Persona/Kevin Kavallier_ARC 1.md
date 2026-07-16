@@ -57,6 +57,9 @@ Possesses an dormant, unawakened temporal connection inherited from his mother's
 - Item: Standard NSF Cadet Badge
   ↳ Details: Basic identification card and digital keycard. Connects to the local NDF/NSF networks and tracks basic biometrics.
 
+### [CAS_DIAGNOSTIC]
+CAS Designation: K2–E3 / C3
+
 ### ABILITIES
 - Ability: Hypervelocity (CAS Actuation)
   ↳ Details: Rapidly accelerates Kevin’s physical velocity, reflexes, and cognitive processing speed. By calculating kinetic variables, fluid resistance, and energy conversion, he can move at speeds that render him invisible to the naked human eye. Currently categorized under Kinematics and Dynamics.
