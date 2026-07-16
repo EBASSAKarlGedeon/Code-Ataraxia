@@ -42,7 +42,9 @@ An elite task force of high-level Actuants specializing in large-scale threats. 
 
 ### 7. Inter-Noetic Authority (INA)
 
-The governing body behind the **Inter-Noetic Network (INN)**. It regulates information flow, cognitive databases, and access to high-level knowledge systems.
+The global governing body behind the INN. Officially, they are neutral regulators who maintain the digital backbone of CAS civilization, manage cognitive databases, and prevent the spread of dangerous, unverified CAS knowledge structures.
+
+Unofficially, they are the ultimate puppeteers of information. By controlling the "Abyss" of the INN, the INA holds a monopoly on secrets. They can edit public perception, erase rogue Actuants from digital existence overnight, and lock down entire cities by manipulating the connected grids. To the INA, data is the ultimate form of Omniscience, and they will go to any length to protect their monopoly over it.
 
 ---
 
