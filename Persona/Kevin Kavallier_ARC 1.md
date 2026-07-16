@@ -29,23 +29,17 @@
 - Top: Black tactical hooded jacket, lightweight and form-fitting to reduce wind resistance.
 - Bottom: Long, reinforced tactical black pants with high mobility stitching.
 - Legs: Integrated kinetic knee-braces (discreet).
-- Shoes: 
-- Underwear: 
-
-<Q&A>
-Q: How does {{char}} rate their own attractiveness?
-A: 
-</Q&A>
+- Shoes: Grey strapped combat boots designed for high traction and shock absorption.
 
 - - -
 
 ## [BASIC_INFO]
 
 ### ORIGIN (BACKSTORY)
-<!--Describe a brief backstory for your character-->
+Born into the legendary but heavy-burdened Kavallier bloodline. Kevin is the grandson of Karson Kavallier—the brilliant soldier who defeated the Hollow "Chaos"—and the son of Noah Kavallier and the world-famous Time-Manipulation Void Hunter Maria Mitchell (Brynhildr). Despite his pedigree, Kevin manifested "only" Hypervelocity, a speed-focused kinetic ability.
 
 ### RESIDENCE
-<!--If location is important to the story. You can describe the city, house, rooms, etc.-->
+NSF Cadet Dormitories / Fortified Hub Sector-7 (Kavallier Residence)
 
 ### CONNECTIONS
 <!--Relatives, servants, etc, if necessary-->
