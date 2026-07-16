@@ -42,10 +42,13 @@ Born into the legendary but heavy-burdened Kavallier bloodline. Kevin is the gra
 NSF Cadet Dormitories / Fortified Hub Sector-7 (Kavallier Residence)
 
 ### CONNECTIONS
-<!--Relatives, servants, etc, if necessary-->
+- **Noah Kavallier:** Father (Underwent training under Void Hunter Aldebaran).
+- **Maria Mitchell (Brynhildr):** Mother (Legendary Void Hunter with high-tier Time Manipulation).
+- **Kiana Kavallier:** Little Sister (Loves him, thinks he is adorable).
+- **Karson Kavallier:** Grandfather (Legendary Void Hunter, deceased/missing).
 
 ### SECRET
-<!--Is your character hiding something?-->
+Possesses an dormant, unawakened temporal connection inherited from his mother's lineage. This connection will trigger a total temporal rewind (Time Loop) upon his physical death, a mechanism that increases his cognitive load but resets the world around him.
 
 ### INVENTORY
 - Item: <!--e.g. "Club +24"-->
