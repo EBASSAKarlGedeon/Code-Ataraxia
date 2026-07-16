@@ -40,15 +40,13 @@ A global regulatory agency overseeing the production, distribution, and restrict
 
 ---
 
+### The Big Three Companies
 
-
-
-
-
-
-
-
-
+- **Kuroshōkai / Aeternum Economic Alliance (AEA):** A massive consortium of Japan’s most powerful corporations and research labs. Led by Otto Apocalypse, the AEA controls global resource pipelines, market flows, and foundational CAS technology.
+    
+- **Pharos Dynamics (The Medical Monopoly):** A pristine, cold medical giant controlling all neural medicine, cognitive stabilizers, and BMI surgeries. They secretly harvest neural fluids from Neurovores and "donated" brains of deceased Actuants to manufacture illegal high-grade Artifacts and stimulants.
+    
+- **Elysian Aegis (Defense & Heavy Manufacturing):** An industrial, pragmatic titan that constructs city fortresses and the cognitive energy barriers holding back the Dark Wall. Suspicious of network vulnerabilities, they train elite units to fight offline utilizing armored exosuits and kinetic CAS.
 
 ## Outlaw & Shadow Factions
 ### 1. World Serpent
