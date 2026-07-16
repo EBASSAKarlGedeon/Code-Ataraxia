@@ -8,17 +8,17 @@
 - Age: 18
 - Hair: Short, snow-white
 - Eyes: Bright, clear blue
-- Body: 
-- Face: 
-- Features: 
+- Body: Lean, athletic, but deceptively slender and graceful.
+- Face: Youthful and soft-featured; often described as striking, highly symmetrical, or "angelic."
+- Features: Expresses an air of quiet innocence when resting, which sharply contrasts with his lineage.
 - Privates: 
 
-- Appearance Trait: <!--e.g. "Womb Tattoo (inmon)"-->
-  ↳ Details: <!--e.g. {{char}} was a sex slave before [...]-->
-  ↳ Effect: <!--e.g. During [...] {{char}} has unresistabe sexual cravings. This will result in [...]-->
+- Appearance Trait: Angelic Symmetry
+  ↳ Details: Possesses soft, remarkably clean-cut facial features that make him look younger and more approachable than typical combat cadets.
+  ↳ Effect: Frequently causes enemies and peers to underestimate his physical threat level. His little sister, Kiana, and others openly describe him as "adorable."
   
-- Appearance Trait: 
-  ↳ Details:
+- Appearance Trait: Kinetic Afterglow
+  ↳ Details: 
   ↳ Effect: 
 
 ### STARTING OUTFIT
