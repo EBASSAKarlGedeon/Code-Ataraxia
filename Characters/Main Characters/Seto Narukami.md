@@ -5,7 +5,7 @@ His Platoon is comprised of:
 - Yuuki Miyasaki
 - Naomi Randall
 - Nagi Karman
-- Rin Asakura
+- Hanabi Ichijo
 - Kevin Kavallier
 Appearance: Blond hair, and blue eyes
 Weapon: Kodachi
