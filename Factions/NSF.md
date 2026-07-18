@@ -59,3 +59,5 @@ Given this exact hierarchy, Kevin’s position as an **NSF Cadet** puts him in a
     
 - At the same time, any green Second Lieutenant fresh out of a corporate academy can completely boss him around, forcing him onto dangerous vanguard or decoy assignments.
     
+
+Which character or profile are we diving into next to populate this hierarchy?
