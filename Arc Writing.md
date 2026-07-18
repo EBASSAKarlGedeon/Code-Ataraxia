@@ -12,4 +12,5 @@ Today, 2250, October 14th, Kevin is 18th
 - Oh, yeah after that we will probably need to update the map of Japan with critical places.
 - Scene 5: They go on a patrol/date together, then there is a Neurovore Outbreak in Osaka. A Stage 4 monster appeared from the Wakayama Bay. While the Osaka branch is requesting support. A gigantic explosion will take place in Tokyo, Kevin will propose his childhood by pushing her down, as his body takes the blast. But she is unconscious. Multiples Stage 2 Neurovores will appear in the devasted Tokyo. Tore between abandoning his unconscious friend. He gets absolute dogged out. Then he dies. 
 - And wakes up 3 years in the past.
-- October 14th, 224
+- October 14th, 2247, 15 year old Kevin in the Kavallier Residence.
+- That's the first part of Arc one.
