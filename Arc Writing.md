@@ -1,5 +1,3 @@
-Here is the revised, structured layout for the first half of **Arc 1: Genesis**, with the official names and roles integrated seamlessly into the progression:
-
 ### Arc 1: Genesis (Part 1 Timeline)
 
 **Setting the Anchor:** October 14th, 2250. Kevin Kavallier turns 18.
