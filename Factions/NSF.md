@@ -58,3 +58,6 @@ Given this exact hierarchy, Kevin’s position as an **NSF Cadet** puts him in a
 - He is technically higher in status than the hardened Privates and Corporals who have been fighting Stage 1 and 2 Neurovores for years in the muddy trenches, which can create instant resentment.
     
 - At the same time, any green Second Lieutenant fresh out of a corporate academy can completely boss him around, forcing him onto dangerous vanguard or decoy assignments.
+    
+
+Which character or profile are we diving into next to populate this hierarchy?
