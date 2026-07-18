@@ -10,4 +10,4 @@ Arc 1: Genesis
 - Scene 3: With their teamwork, they isolate and defeat a stage 3 Neurovore.
 - Scene 4: Short Moment where Kevin and Childhood friend are talking together back at the Tokyo HQ.
 - Oh, yeah after that we will probably need to update the map of Japan with critical places.
-- Scene 5: They go on a patrol/date together, then there is a Neurovore Outbreak in Osaka. A Stage 4 monster appeared from the Wakayama Bay. While the Osaka branch is requesting support. A gigantic explosion will take plac 
+- Scene 5: They go on a patrol/date together, then there is a Neurovore Outbreak in Osaka. A Stage 4 monster appeared from the Wakayama Bay. While the Osaka branch is requesting support. A gigantic explosion will take place in Tokyo, Kevin will propose his childhood by pushing her down, as his body takes the blast. But she is unconscious. Multiples Stage 2 Neurovores will appear in the devasted Tokyo
