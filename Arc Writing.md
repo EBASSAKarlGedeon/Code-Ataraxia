@@ -6,4 +6,6 @@ Arc 1: Genesis
 	- Kind guy swordman, 2nd strongest after the captain currently
 	- Girl with Short-term Precognition, Best friend has a crush on her.
 	- Best friend of Kevin.
-	- 
+	- And kind captain.
+- Scene 3: With their teamwork, they isolate and defeat a stage 3 Neurovore.
+- Scene 4: Short Moment 
