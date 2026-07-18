@@ -1,4 +1,4 @@
-Nagi Karman
+agi Karman
 Nagi has brown hair with gold-hazel eyes, He wears a belt Around his clothes with. He wears a black pants with black and gray boots for missions.
 Nagi is a very optimistic NSF member. He is  one of Kevin's best friends and has been with Kevin since they started in the NSF. He has a heavy crush on Naomi Randall.
 CAS ability: Aerokinesis
